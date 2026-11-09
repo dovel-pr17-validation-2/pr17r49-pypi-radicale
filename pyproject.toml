@@ -58,7 +58,7 @@ caldav_test = [
     "caldav==3.5.0; python_version >= '3.10'",
     "caldav-server-tester==1.4.0; python_version >= '3.10'",
     "icalendar==7.3.0; python_version >= '3.10'",
-    "icalendar-searcher==1.2.0; python_version >= '3.10'",
+    "icalendar-searcher==1.3.0; python_version >= '3.10'",
     "recurring-ical-events==3.8.2; python_version >= '3.10'",
 ]
 
